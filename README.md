@@ -1,17 +1,13 @@
 # Hi, I’m David 👋
 
-I am a freelancer Android Developer with an engineering degree in IT & Software.</br>
-I have 8 years of professional experience as a C++ and Java software developer in the aeronautics, telecommunication and public transport. 
-Passionate about Android application development for the past 2 years, I use my years of experience to analyze customer needs to design ergonomic and efficient applications. 
+I'm an Android Engineer blending technical expertise and a drive for positive impact.
+With 3+ years of hands-on Android development using modern Kotlin, Jetpack (including Compose), and clean architecture (MVVM), I design robust, user-centric mobile applications that serve real needs. 
+My foundation includes over 10 years of experience in software engineering (C++ and Java) across high-stakes environments like aeronautics, telecommunications, and public transport.
 
-I use the latest practices in Android Kotlin development :
-- MVVM + Live Data + Data Binding
-- Jetpack
-- Room database
-- Retrofit
-- Coroutines
-- Dagger Hilt
-- Unit tests (JUnit)
+Beyond coding, I’m deeply committed to building meaningful tech, whether by improving digital sustainability, facilitating climate awareness workshops or designing tools that empower teams.
+I thrive in collaborative, mission-driven environments where software meets purpose.
+
+Let’s build things that matter.
 
 ## You can find me on 📡
 
