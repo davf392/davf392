@@ -1,17 +1,22 @@
-# Hi, I’m David 👋
+# Développeur Android/Kotlin Éthique & Engagé 📱🌿
 
-I'm an Android Engineer blending technical expertise and a drive for positive impact.
-With 3+ years of hands-on Android development using modern Kotlin, Jetpack (including Compose), and clean architecture (MVVM), I design robust, user-centric mobile applications that serve real needs. 
-My foundation includes over 10 years of experience in software engineering (C++ and Java) across high-stakes environments like aeronautics, telecommunications, and public transport.
+Actuellement **Développeur Android** chez **Matawan**, je développe des applications natives qui modernisent et transforment l'expérience des transports en commun. Mon travail se concentre sur des solutions clés comme les systèmes d'aide à la navigation pour les conducteurs de bus et les applications de validation de titres de transport. Je combine une solide expérience de plus de 10 ans en génie logiciel (C++/Java) avec 3 ans d'expertise en développement Android. Grâce à une approche agile, je livre des applications robustes, performantes et centrées sur l'utilisateur.
 
-Beyond coding, I’m deeply committed to building meaningful tech, whether by improving digital sustainability, facilitating climate awareness workshops or designing tools that empower teams.
-I thrive in collaborative, mission-driven environments where software meets purpose.
+### 🛠️ Compétences & Technologies
+-   **Développement Android :** Kotlin, Jetpack (Compose), MVVM, Clean Architecture.
+-   **Expertise générale :** 10+ ans d'expérience en C++ et Java dans des environnements exigeants.
+-   **Méthodologies :** Scrum/Agile, Intégration et Déploiement Continu (CI/CD), GitHub Actions.
 
-Let’s build things that matter.
+### 🌱 Projets & Passion
+Au-delà du code, je m'engage à construire une technologie utile. Je mets mes compétences au service de projets qui allient impact social, durabilité numérique et conscience environnementale.
+Vous trouverez dans mes dépôts des applications comme :
+-   **Panier Local** : pour simplifier la gestion des AMAP.
+-   **Fresque du Climat** : pour faciliter les ateliers de sensibilisation aux enjeux climatiques.
 
-## You can find me on 📡
+Let’s build things that matter 🌍
 
-- <a href="https://www.linkedin.com/in/david-fourdrigniez" target="blank">Linkedin</a> &nbsp;
-- <a href="https://www.malt.fr/profile/davidfourdrigniez" target="blank">Malt</a> &nbsp;
-- <a href="https://app.comet.co/freelancer/profile" target="blank">Comet</a> &nbsp;
-- <a href="https://www.join-time.com/en/shareholders/user/yteLY_V5brE-david-fourdrigniez" target="blank">Time For The Planet</a>
+### 🔗 Retrouvez-moi sur
+-   **[Linkedin](https://www.linkedin.com/in/david-fourdrigniez)** 💼
+-   **[Malt](https://www.malt.fr/profile/davidfourdrigniez)** 🎨
+-   **[Comet](https://app.comet.co/freelancer/profile)** ☄️
+-   **[Time For The Planet](https://www.join-time.com/en/shareholders/user/yteLY_V5brE-david-fourdrigniez)** 🌡️
